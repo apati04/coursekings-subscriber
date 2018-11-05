@@ -1,0 +1,16 @@
+{
+  "name": "coursekings-subscriber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:apati04/coursekings-subscriber.git",
+  "author": "Andrew Patipaksiri <apax714@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
+  }
+}
